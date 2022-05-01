@@ -1,7 +1,13 @@
-###This is Juris Kreilis first repo and readme file.
+#Šis ir mans otrais mājas darbs
+## 200 vārdu apraksts par mani
+Šeit rakstām tekstu par sevi........................
 
-This is second commit test. 
-this is new text
 
 
-this is change from my branch
+Ieliekam kādu linku
+Links uz APT [kursu](https://edu.lu.lv/course/view.php?id=2225).
+
+Ieliekam kādu bildi
+
+![This is an image](https://picsum.photos/200/300)
+
